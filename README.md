@@ -13,6 +13,6 @@ Seven bilingual worship songs of thirst for the Living Water. Jesus Christ. Eyes
 7. Countless Praises — கோடானுகோடி ஸ்தோத்திரங்கள்
 
 # Published
-GitHub: https://github.com/KJC-DNN/Album104_Living_Water/releases/tag/104.0.0
-Archive: https://archive.org/details/album-104-living-water-en-ta-main-cover
-Zenodo: https://doi.org/10.5281/zenodo.23588088
+1. GitHub: https://github.com/KJC-DNN/Album104_Living_Water/releases/tag/104.0.0
+2. Archive: https://archive.org/details/album-104-living-water-en-ta-main-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.23588088
